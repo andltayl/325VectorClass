@@ -1,5 +1,5 @@
 /* Author: Anderson Taylor
- * Date: 4/23/2018
+ * Date: 10/4/2018
  * File: Vector.h
  * Description: Header file and implementation of the templated Vector class.
  */
